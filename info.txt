@@ -1,0 +1,33 @@
+1. create a linked list based stack
+push five values to the stack then pop three out
+ of the stack finally peek the stack.
+
+2. write a program(using a stack) that accepts
+ user inputs which are sentences then when 
+ the user enters z it brings up all the previous 
+ sentences watch the example output carefully:
+
+>>> enter a word , sentence or phrase
+x is a letter
+14 is a number
+cars are machines
+z
+
+>> cars are machines
+>> 14 is a number
+>> x is a letter
+a house
+z 
+>> a house
+>> cars are machines
+>> 14 is a number
+>> x is a letter
+
+3. create two programs that solves two problems of 
+your choice using a stack and a linked list
+
+
+step one 
+1.create a stack of empty list
+2. write an algorithm that ecept user input 
+3. write an algorithm that can can break out the las
